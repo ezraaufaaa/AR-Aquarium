@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="orca" size="1.000000 1.014184" />
+    <ImageTarget name="tuna" size="1.000000 1.021314" />
+    <ImageTarget name="dori" size="1.000000 0.859929" />
+    <ImageTarget name="pari" size="1.000000 1.000000" />
+    <ImageTarget name="Marker_HIU" size="1.000000 0.952043" />
+  </Tracking>
+</QCARConfig>
